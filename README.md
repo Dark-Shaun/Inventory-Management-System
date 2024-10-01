@@ -9,7 +9,6 @@ Welcome to the **Personalized Inventory Management System** project! This docume
 - [Overview](#overview)
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
-- [Personalization Features](#personalization-features)
 - [Project Setup](#project-setup)
   - [Database Design](#database-design)
   - [User Roles and Permissions](#user-roles-and-permissions)
