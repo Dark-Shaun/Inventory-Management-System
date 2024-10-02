@@ -54,4 +54,9 @@ To build this system, the following technologies are recommended:
 
 This conceptual **Personalized Inventory Management System** highlights how modern technology stacks like Django can be leveraged to create efficient, personalized solutions for businesses. The goal is to provide a flexible, scalable inventory management system that adapts to user behavior and optimizes operational efficiency.
 
+## Maintained by Renuka Pharma
+
+This project is an internal initiative, maintained by the data analytics team at Renuka Pharma. Continuous updates and improvements will be made based on user feedback and evolving business needs.
+
+For more information about this project or to request access to the dashboards, please contact the analytics team at Renuka Pharma.
 
